@@ -22,7 +22,7 @@
 
 ## 作品リスト
 ### SHAPE MATCHER
-![uo2](images/OPI.png)
+![uo2](Images/OPI.png)
 
 [SHAPEMATCHER](https://unityroom.com/games/shapematcher)
 
@@ -32,7 +32,7 @@
 - [Githubリポジトリ](https://github.com/Nikasan541/Nuketoru)
 
 ### HyperBlockBuster
-![uo2](images/samune.png)
+![uo2](Images/samune.png)
 
 [HyperBlockBuster](https://unityroom.com/games/hyperblockbuster)
 
