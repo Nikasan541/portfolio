@@ -30,3 +30,5 @@ print("うお
 | うおｗ | うおｗｗ | うおｗｗｗ |
 | 1 | 2 | 3 |
 ![うおｗ](https://www.python.org/static/community_logos/python-logo.png)
+
+![uo2](images/OIP.png)
