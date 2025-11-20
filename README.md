@@ -1,6 +1,6 @@
 # portfolio
 - 二階堂 悠貴
-- 連絡先 X [@Nikasan_01101](https://twitter.com/Nikasan_01101) / Email [nikasan01101@gmail.com]()
+- 連絡先 X [@Nikasan_01101](https://twitter.com/Nikasan_01101) / Gmail [nikasan01101@gmail.com]()
 - 専門学校デジタルアーツ東京 ゲームプログラムコース 2027年卒業予定
 
 ## 資格
@@ -36,6 +36,11 @@
 
 [HyperBlockBuster](https://unityroom.com/games/hyperblockbuster)
 
+ブロックを壊してハイスコアを目指す新感覚ブロック崩し
 - 開発環境:Unity6000.2.8f1
 - 開発期間:2025/9/12-2025/10/31
 - [Githubリポジトリ](https://github.com/Nikasan541/HyperBlockBuster)
+
+### 連絡先
+- X: [@Nikasan_01101](https://twitter.com/Nikasan_01101)
+- Gmail:
