@@ -32,7 +32,7 @@
 - [Githubリポジトリ](https://github.com/Nikasan541/Nuketoru)
 
 ### HyperBlockBuster
-![uo2](Images/samune.png)
+[![画像の説明](画像URL)](https://unityroom.com/games/hyperblockbusterL)
 
 [HyperBlockBuster](https://unityroom.com/games/hyperblockbuster)
 
