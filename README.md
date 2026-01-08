@@ -48,8 +48,11 @@
 
 ### 徳を積むクリッカー
 
-
+- [Githubリポジトリ](https://github.com/Nikasan541/MasicGame)
 [徳を積むクリッカー](https://unityroom.com/games/tokutokukurikka)
+- 開発環境:Unity6000.2.8f1
+- 開発期間:2025
+- [Githubリポジトリ](https://github.com/Nikasan541/MokugyoGame)
 
 ### 連絡先
 - X: [@Nikasan_01101](https://twitter.com/Nikasan_01101)
