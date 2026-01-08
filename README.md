@@ -46,8 +46,8 @@
 
 [MinimalBlend 色を愛でるゲーム](https://unityroom.com/games/minimalblend)
 
--開発環境:Unity6000.2.8f1
--開発期間:2025/12/4-2025/12/29
+- 開発環境:Unity6000.2.8f1
+- 開発期間:2025/12/4-2025/12/29
 - [Githubリポジトリ](https://github.com/Nikasan541/MasicGame)
 
 ### 徳を積むクリッカー
