@@ -22,11 +22,11 @@
 
 ## 作品リスト
 ### SHAPE MATCHER
-![uo2](Images/OPI.png)(https://unityroom.com/games/shapematcher)
+![uo2](Images/OPI.png)
 
 [SHAPEMATCHER](https://unityroom.com/games/shapematcher)
 
-形を合わせるパズルゲーム
+形を合わせてスコアを稼ぐパズルゲーム
 - 開発環境：Unity6000.0.44f1
 - 開発期間：2025/6/21-9/18
 - [Githubリポジトリ](https://github.com/Nikasan541/Nuketoru)
@@ -36,10 +36,12 @@
 
 [HyperBlockBuster](https://unityroom.com/games/hyperblockbuster)
 
-ブロックを壊してハイスコアを目指す新感覚ブロック崩し
+ブロックを壊してハイスコアを目指す新感覚ローグライクブロック崩し
 - 開発環境:Unity6000.2.8f1
 - 開発期間:2025/9/12-2025/10/31
 - [Githubリポジトリ](https://github.com/Nikasan541/HyperBlockBuster)
+
+### MinimalBlend 色を愛でるゲーム
 
 ### 連絡先
 - X: [@Nikasan_01101](https://twitter.com/Nikasan_01101)
