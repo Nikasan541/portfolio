@@ -43,4 +43,4 @@
 
 ### 連絡先
 - X: [@Nikasan_01101](https://twitter.com/Nikasan_01101)
-- Gmail:
+- Gmail: nikaido01101@gmail.com
