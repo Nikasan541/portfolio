@@ -42,6 +42,7 @@
 - [Githubリポジトリ](https://github.com/Nikasan541/HyperBlockBuster)
 
 ### MinimalBlend 色を愛でるゲーム
+<img width="512" height="512" alt="icon_20251222_174935" src="https://github.com/user-attachments/assets/c4cc7473-9fb7-47ee-9c7b-5494b9690427" />
 
 
 [MinimalBlend 色を愛でるゲーム](https://unityroom.com/games/minimalblend)
@@ -51,7 +52,8 @@
 - [Githubリポジトリ](https://github.com/Nikasan541/MasicGame)
 
 ### 徳を積むクリッカー
-![uo2[[link text](https://unityroom.com/games/tokutokukurikka)](Images/icon_20251228_145223.png)
+<img width="512" height="512" alt="icon_20251228_145223" src="https://github.com/user-attachments/assets/f86d3160-7920-4329-ad58-4fae1f224776" />
+
 
 [徳を積むクリッカー](https://unityroom.com/games/tokutokukurikka)
 - 開発環境:Unity6000.2.8f1
