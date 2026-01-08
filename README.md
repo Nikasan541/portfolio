@@ -47,6 +47,7 @@
 
 [MinimalBlend 色を愛でるゲーム](https://unityroom.com/games/minimalblend)
 
+RGB + 黒を混ぜていき、指定の色を作っていくカラーパズル
 - 開発環境:Unity6000.2.8f1
 - 開発期間:2025/12/4-2025/12/29
 - [Githubリポジトリ](https://github.com/Nikasan541/MasicGame)
@@ -56,8 +57,10 @@
 
 
 [徳を積むクリッカー](https://unityroom.com/games/tokutokukurikka)
+
+7時間で土台を作ったクリッカーゲーム、木魚を叩いて徳を稼ぐ
 - 開発環境:Unity6000.2.8f1
-- 開発期間:2025/12/7-2026/1/1
+- 開発期間:2025/12/27-2026/1/1
 - [Githubリポジトリ](https://github.com/Nikasan541/MokugyoGame)
 
 ### 連絡先・活動場所
