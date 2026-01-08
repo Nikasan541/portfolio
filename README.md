@@ -57,7 +57,7 @@
 - 開発期間:2025/12/7-2026/1/1
 - [Githubリポジトリ](https://github.com/Nikasan541/MokugyoGame)
 
-### 連絡先
+### 連絡先・活動場所
 - X: [@Nikasan_01101](https://twitter.com/Nikasan_01101)
 - Unityroom: [にかさん](https://unityroom.com/users/d8unvq5wmpgth4aze7si)
 - Gmail: nikaido01101@gmail.com
