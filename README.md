@@ -67,5 +67,6 @@ RGB + 黒を混ぜていき、指定の色を作っていくカラーパズル
 
 ### 連絡先・活動場所
 - X: [@Nikasan_01101](https://twitter.com/Nikasan_01101)
-- Unityroom: [にかさん](https://unityroom.com/users/d8unvq5wmpgth4aze7si)
+- Unityroom: [にかさん|ゲーム作る人](https://unityroom.com/users/d8unvq5wmpgth4aze7si)
+- note: [にかさん|ゲーム作る人](https://note.com/quick_nikasan)
 - Gmail: nikaido01101@gmail.com
