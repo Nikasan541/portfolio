@@ -1,6 +1,6 @@
 # portfolio
 - 二階堂 悠貴
-- 連絡先 X [@Nikasan_01101](https://twitter.com/Nikasan_01101) / Gmail [nikasan01101@gmail.com]()
+- 連絡先 X [@Nikasan_01101](https://twitter.com/Nikasan_01101) / Gmail [nikaido01101@gmail.com]()
 - 専門学校デジタルアーツ東京 ゲームプログラムコース 2027年卒業予定
 
 ## 資格
@@ -70,3 +70,9 @@ RGB + 黒を混ぜていき、指定の色を作っていくカラーパズル
 - Unityroom: [にかさん](https://unityroom.com/users/d8unvq5wmpgth4aze7si)
 - note: [にかさん|ゲーム作る人](https://note.com/quick_nikasan)
 - Gmail: nikaido01101@gmail.com
+
+### このポートフォリオをブラウザで閲覧する場合
+このQRコードから、直接このポートフォリオのあるwebページに移行できます。
+よりよい閲覧体験のため、ブラウザでの閲覧を推奨します。
+
+
