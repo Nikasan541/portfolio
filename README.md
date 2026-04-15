@@ -75,4 +75,5 @@ RGB + 黒を混ぜていき、指定の色を作っていくカラーパズル
 このQRコードから、直接このポートフォリオのあるwebページに移行できます。
 よりよい閲覧体験のため、ブラウザでの閲覧を推奨します。
 
+<img width="240" height="240" alt="QR_249529" src="https://github.com/user-attachments/assets/755fba52-9bac-4cb8-a358-716191f467b6" />
 
