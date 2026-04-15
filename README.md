@@ -36,17 +36,17 @@
 
 [SHAPEMATCHER](https://unityroom.com/games/shapematcher)
 
-形を合わせてスコアを稼ぐパズルゲーム
+形を合わせてスコアを稼ぐパズルゲーム。<br>  壁の形のランダム化とプレイヤーの形の判定に苦労したが、パターンを作ることによって判定を実現した。
 - 開発環境：Unity6000.0.44f1
 - 開発期間：2025/6/21-9/18
 - [Githubリポジトリ](https://github.com/Nikasan541/Nuketoru)
 
 ### HyperBlockBuster
-![uo2[link text](https://unityroom.com/games/hyperblockbuster)](Images/samune.png)
+![uo2](Images/samune.png)
 
 [HyperBlockBuster](https://unityroom.com/games/hyperblockbuster)
 
-ブロックを壊してハイスコアを目指す新感覚ローグライクブロック崩し
+ブロックを壊してハイスコアを目指す新感覚ローグライクブロック崩し。<br>ボールの装備システムの実装に苦労したが、データと挙動を分離して管理することで拡張しやすい構造にした。
 - 開発環境:Unity6000.2.8f1
 - 開発期間:2025/9/12-2025/10/31
 - [Githubリポジトリ](https://github.com/Nikasan541/HyperBlockBuster)
@@ -57,7 +57,7 @@
 
 [MinimalBlend 色を愛でるゲーム](https://unityroom.com/games/minimalblend)
 
-RGB + 黒を混ぜていき、指定の色を作っていくカラーパズル
+RGB + 黒を混ぜていき、指定の色を作っていくカラーパズル。<br>UIやボタンの質感・演出にこだわり、操作時のフィードバックを意識して調整を行った。
 - 開発環境:Unity6000.2.8f1
 - 開発期間:2025/12/4-2025/12/29
 - [Githubリポジトリ](https://github.com/Nikasan541/MasicGame)
@@ -68,7 +68,7 @@ RGB + 黒を混ぜていき、指定の色を作っていくカラーパズル
 
 [徳を積むクリッカー](https://unityroom.com/games/tokutokukurikka)
 
-7時間でプロトタイプを構築し、ゲームループの検証を行った、木魚を叩いて徳を稼ぐ
+7時間でプロトタイプを構築し、ゲームループの検証を行ったクリッカーゲーム。<br>短時間で完成させるため、最小構成で実装し、シンプルな構造を意識した。
 - 開発環境:Unity6000.2.8f1
 - 開発期間:2025/12/27-2026/1/1
 - [Githubリポジトリ](https://github.com/Nikasan541/MokugyoGame)
